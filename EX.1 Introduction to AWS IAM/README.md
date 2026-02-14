@@ -72,7 +72,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 ## Author
 ```
-**Name:** MEENAKSHI R(212224220062)
-**Course:** Introduction to Cloud Computing
+Name: MEENAKSHI R(212224220062)
+Course:Introduction to Cloud Computing
 ```
 
