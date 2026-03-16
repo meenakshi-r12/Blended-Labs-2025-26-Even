@@ -106,7 +106,7 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 3: Sample Database and Table
 
-![IMG}(https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.%205%20Build%20a%20Database%20Server/53.png)
+![IMG](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.%205%20Build%20a%20Database%20Server/53.png)
 
 ---
 
