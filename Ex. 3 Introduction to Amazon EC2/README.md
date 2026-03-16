@@ -164,7 +164,7 @@ I confirmed the termination and observed that the instance state changed to “T
 
 ### Screenshot 3: Instance Monitoring / Status
 
-
+![IMG](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.%203%20Introduction%20to%20Amazon%20EC2/33.png)
 
 ---
 
