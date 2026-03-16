@@ -110,7 +110,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+![img](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.%203%20Introduction%20to%20Amazon%20EC2/31.png)
 
 ---
 
