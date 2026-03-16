@@ -87,7 +87,11 @@ Finally, I tested the setup by generating traffic to the Load Balancer DNS name.
 
 ## Output Screenshots 
 
+![IMG](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.6%20Scale%20and%20Load%20Balance%20Your%20Architecture/61.png)
 
+![IMG](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.6%20Scale%20and%20Load%20Balance%20Your%20Architecture/62.png)
+
+![IMG](https://github.com/meenakshi-r12/Blended-Labs-2025-26-Even/blob/main/Ex.6%20Scale%20and%20Load%20Balance%20Your%20Architecture/63.png)
 
 ## Result
 
